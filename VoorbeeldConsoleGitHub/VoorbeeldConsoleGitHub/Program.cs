@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Console.ForegroundColor = ConsoleColor.Red;
 Console.WriteLine("Hello, World!");
+Console.WriteLine("Druk op een knop om te stoppen");
+Console.ReadKey();
